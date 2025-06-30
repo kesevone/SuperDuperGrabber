@@ -1,6 +1,6 @@
 # SuperDuperGrabber Changelog
 
-## [1.0.0] - 2025-06-30
+## [1.0.0]
 ### Added
 - Initial release of SuperDuperGrabber.
 - Grabber tool to pick up and place chests.
