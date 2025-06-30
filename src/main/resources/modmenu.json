@@ -1,0 +1,5 @@
+{
+  "id": "sdgrabber",
+  "name": "[SD] Grabber",
+  "configScreen": "sdgrabber.sdgrabber.config.GrabberConfig"
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sdgrabber:item/iron_grabber"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "sdgrabber:stored_any": 1.0
+      },
+      "model": "sdgrabber:item/iron_grabber_chest"
+    }
+  ]
+}

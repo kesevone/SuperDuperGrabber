@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "IWI",
+    " I "
+  ],
+  "key": {
+    "W": {
+      "item": "sdgrabber:wooden_grabber"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "sdgrabber:iron_grabber",
+    "count": 1
+  }
+}

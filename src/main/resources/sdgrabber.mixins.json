@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "sdgrabber.mixin",
+	"compatibilityLevel": "JAVA_17",
+    "mixins": [
+		"AddEffectToPlayerMixin",
+		"PreventDropGrabberMixin",
+		"PreventDropGrabberScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

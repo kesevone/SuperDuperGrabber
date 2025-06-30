@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sdgrabber:item/double_grabber"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "sdgrabber:chests_count": 1.0
+      },
+      "model": "sdgrabber:item/double_grabber_single_chest"
+    },
+    {
+      "predicate": {
+        "sdgrabber:chests_count": 2.0
+      },
+      "model": "sdgrabber:item/double_grabber_double_chest"
+    }
+  ]
+}

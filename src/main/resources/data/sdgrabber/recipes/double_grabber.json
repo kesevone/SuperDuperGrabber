@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D D",
+    "G#G",
+    " G "
+  ],
+  "key": {
+    "#": {
+      "item": "sdgrabber:diamond_grabber"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "sdgrabber:double_grabber",
+    "count": 1
+  }
+}
