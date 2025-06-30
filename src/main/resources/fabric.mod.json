@@ -11,7 +11,7 @@
 		"homepage": "https://github.com/kesevone",
 		"sources": "https://github.com/SuperDuperGrabber"
 	},
-	"license": "CC0-1.0",
+	"license": "CC-BY-NC-4.0",
 	"icon": "assets/sdgrabber/icon.png",
 	"environment": "*",
 	"entrypoints": {
